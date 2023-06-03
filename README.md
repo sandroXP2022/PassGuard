@@ -1,2 +1,4 @@
 # PassGuard
-A simple and fast password generator...  It works OFFLINE!
+A lightweight and easy-to-use open-source password generator...  
+
+Works OFFLINE!
